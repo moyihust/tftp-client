@@ -7,10 +7,10 @@ be designed for tftpd server
     - [x] below 512b
     - [x] below 64kb
     - [x] more
-- [ ] upload file
+- [x] upload file
   - [x] below 512b
   - [x] below 64b
-  - [ ] more
+  - [x] more
 - [ ] interface
   - [ ] upload
   - [ ] url
